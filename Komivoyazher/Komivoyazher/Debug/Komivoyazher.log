@@ -1,0 +1,13 @@
+﻿  Komivoyazher.cpp
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(12,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(60,50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(62,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(64,38): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(77,52): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(79,35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(92,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(95,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(140,12): warning C4101: v: неиспользованная локальная переменная
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(140,15): warning C4101: w: неиспользованная локальная переменная
+D:\Komivoyazher\Komivoyazher\Komivoyazher.cpp(140,9): warning C4101: u: неиспользованная локальная переменная
+  Komivoyazher.vcxproj -> D:\Komivoyazher\Debug\Komivoyazher.exe
